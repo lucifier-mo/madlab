@@ -1,0 +1,6 @@
+manifest.xml
+Go to manifest file :
+In <activity>
+At the end Add this line:
+            android:screenOrientation="landscape">
+Rest  of the code will remain as it is ..
